@@ -1,4 +1,3 @@
 # github-demo
 A simple demo repo 
-JPNG
-MEMO
+JPNG - Jean-Paul NGUYEN 
